@@ -18,6 +18,8 @@ namespace Calculs
             int reponse; // saisie de la réponse de l'utilisateur
             int choix; // saisie du choix de l'utilsiateur
 
+            Console.WriteLine("Ce message est inutile ahah!");
+
             // boucle sur le menu
             choix = 1;
             while (choix != 0)
